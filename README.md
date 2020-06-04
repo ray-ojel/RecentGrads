@@ -1,2 +1,2 @@
 # RecentGrads
-DataQuest Project: Analyzing Recent Graduate Data
+DataQuest Project: Visualizing Recent Graduate Data
